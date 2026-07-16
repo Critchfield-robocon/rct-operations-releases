@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "notes": "Added robot tracking, daily notes, SOP search improvements, and expandable log entries.",
   "windowsUrl": "https://github.com/Critchfield-robocon/rct-operations-releases/releases/download/v1.1.0/rct-operations-windows.zip"
 }
