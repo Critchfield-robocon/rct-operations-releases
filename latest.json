@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
-  "notes": "Adds an in-app content-update checker: SOP/checklist/robot content edits made in Manage Content can now be published and picked up by other devices without a rebuild, via a green banner on Home.",
-  "windowsUrl": "https://github.com/Critchfield-robocon/rct-operations-releases/releases/download/v1.3.0/rct-operations-setup-1.3.0.exe",
+  "version": "1.3.1",
+  "notes": "Fixes a certificate verification error some devices hit when checking for updates or content on networks that intercept HTTPS traffic (corporate proxies/security appliances).",
+  "windowsUrl": "https://github.com/Critchfield-robocon/rct-operations-releases/releases/download/v1.3.1/rct-operations-setup-1.3.1.exe",
   "contentVersion": "content-v2",
   "contentUrl": "https://github.com/Critchfield-robocon/rct-operations-releases/releases/download/content-v2/rct-content-package-content-v2.zip",
   "contentNotes": "Test run of the one-command publish script."
