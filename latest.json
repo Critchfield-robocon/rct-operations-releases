@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Added robot tracking, daily notes, SOP search improvements, and expandable log entries.",
-  "windowsUrl": "https://github.com/Critchfield-robocon/rct-operations-releases/releases/download/v1.1.0/rct-operations-setup-1.1.0.exe"
+  "version": "1.2.0",
+  "notes": "Added multi-robot tracking (serial number registry, per-robot checklist progress, robot-tagged logs), a Daily Notes feature, an 'updated since you last viewed it' badge on SOPs, expandable Issue/Maintenance/Notes log entries, and this in-app update checker.",
+  "windowsUrl": "https://github.com/Critchfield-robocon/rct-operations-releases/releases/download/v1.2.0/rct-operations-setup-1.2.0.exe"
 }
