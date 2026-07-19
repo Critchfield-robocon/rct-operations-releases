@@ -1,7 +1,7 @@
 {
-  "version": "1.3.10",
-  "notes": "Fixes the touch keyboard needing a second tap: it was launching ~50ms before Flutter assigned focus to the field, so Windows saw no focused field and auto-hid it. It now launches the moment focus reaches the tapped field, so one tap opens it and it stays. (Combined with 1.3.9's fix for the keyboard opening on navigation.)",
-  "windowsUrl": "https://github.com/Critchfield-robocon/rct-operations-releases/releases/download/v1.3.10/rct-operations-setup-1.3.10.exe",
+  "version": "1.3.11",
+  "notes": "Keyboard: on-device logs proved Windows itself was auto-opening the keyboard on navigation (a side effect of the accessibility mode needed to keep it open). This disables Windows' auto-show so only an explicit tap on a text field opens the keyboard, and makes the 'Automatic On-Screen Keyboard' setting a true off switch.",
+  "windowsUrl": "https://github.com/Critchfield-robocon/rct-operations-releases/releases/download/v1.3.11/rct-operations-setup-1.3.11.exe",
   "contentVersion": "content-v2",
   "contentUrl": "https://github.com/Critchfield-robocon/rct-operations-releases/releases/download/content-v2/rct-content-package-content-v2.zip",
   "contentNotes": "Test run of the one-command publish script."
